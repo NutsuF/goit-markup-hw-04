@@ -321,8 +321,8 @@ img {
 }
 
 .social-icon {
-  width: 16px;
-  height: 16px;
+  width: 35px;
+  height: 40px;
   fill: var(--icon-color, #f4f4fd);
 }
 
@@ -511,9 +511,9 @@ img {
 
 /* Іконки */
 .footer-social-icon {
-  fill: var(--icon-color);
-  width: 24px;
-  height: 24px;
+  fill: var(--icon-color, #f4f4fd);
+  width: 35px;
+  height: 40px;
 }
 
 /*------ Visually Hidden ------------------*/
