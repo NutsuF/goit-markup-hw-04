@@ -459,7 +459,7 @@ img {
   color: var(--icon-color);
 }
 
-/* ------------------ Footer link------------------ */
+/* ------------------ Footer links------------------ */
 .social-container {
   display: flex;
   flex-direction: column;
