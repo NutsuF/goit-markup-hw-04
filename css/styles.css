@@ -47,7 +47,7 @@ img {
   box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 2px 1px 0 rgba(46, 47, 66, 0.08);
   background: #fff;
-  width: 1440px;
+  width: 100%;
   height: 72px;
   margin: 0 auto;
 }
@@ -171,7 +171,7 @@ img {
   background-color: #2e2f42;
   text-align: center;
   padding: 188px 0;
-  max-width: 1440px;
+  width: 100%;
   height: 600px;
   margin: 0 auto;
   background-image: linear-gradient(
@@ -244,7 +244,7 @@ img {
   background-color: #f4f4fd;
   padding-top: 120px;
   padding-bottom: 120px;
-  width: 1440px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -307,7 +307,7 @@ img {
 .social-link {
   width: 100%;
   height: 100%;
-  background-color: var(--accent-color, #4d5ae5);
+  /* background-color: var(--accent-color, #4d5ae5); */
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -383,7 +383,6 @@ img {
   height: 100%;
   padding: 40px 32px;
 
-  display: flex;
   align-items: center;
   font-weight: 400;
   font-size: 16px;
