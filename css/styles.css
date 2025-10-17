@@ -511,7 +511,7 @@ img {
 /* Іконки */
 .footer-social-icon {
   fill: var(--icon-color, #f4f4fd);
-  width: 35px;
+  width: 24px;
   height: 40px;
 }
 
